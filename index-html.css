@@ -1,0 +1,12 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+h1 {
+  font-size: 30pt;
+      font-family: "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+      font-weight: 600;
+      color: #000000;
+}
