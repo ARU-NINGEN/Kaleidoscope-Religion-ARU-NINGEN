@@ -1,18 +1,24 @@
 h1 {
       font-size: 30pt;
-      font-family: "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+      font-family: "Chikushi B Maru Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
       font-weight: 600;
       color: #000000;
 　　　}
 h2 {
       font-size: 20pt;
-      font-family: "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
-      font-weight: 600;
+      font-family: "Chikushi B Maru Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+      font-weight: 500;
       color: #000000;
 　　　}
+h2 {
+      font-size: 15pt;
+      font-family: "Chikushi B Maru Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+      font-weight: 500;
+      color: #000000;
+     }
 p {
       font-size: 15pt;
-      font-family: "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+      font-family: "Chikushi B Maru Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
       font-weight: 500;
       color: #000000;
 　　　}
